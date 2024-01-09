@@ -568,7 +568,7 @@
             "DamagedRatio": {
                 "En": "Incoming DMG RES",
                 "Jp": "被ダメージ抵抗",
-                "Kr": "받는 대미지량",
+                "Kr": "받는 대미지 감소량",
                 "Th": "ความเสียหายที่ได้รับ",
                 "Tw": "遭受的傷害量",
                 "Cn": "全局免伤率",
@@ -583,7 +583,7 @@
             "BlockRate": {
                 "En": "Block Rate Bonus",
                 "Jp": "遮蔽ブロック率ボーナス",
-                "Kr": "엄폐 성공률",
+                "Kr": "엄폐 성공률 보너스",
                 "Th": "อัตรากำบังสำเร็จ",
                 "Tw": "掩護成功率",
                 "Cn": "掩护成功率",
@@ -667,7 +667,7 @@
             "ExtendBuffDuration": {
                 "En": "Buff Duration",
                 "Jp": "バフ効果持続力",
-                "Kr": "이로운 효과 유지력",
+                "Kr": "버프 지속시간",
                 "Th": "ระยะเวลาบัพ",
                 "Tw": "增益效果持續力",
                 "Cn": "增益持续力",
@@ -676,7 +676,7 @@
             "ExtendDebuffDuration": {
                 "En": "Debuff Duration",
                 "Jp": "弱体状態持続力",
-                "Kr": "해로운 효과 유지력",
+                "Kr": "디버프 지속시간",
                 "Th": "ระยะเวลาเอฟเฟกต์อันตราย",
                 "Tw": "減益效果持續力",
                 "Cn": "减益持续力",
@@ -929,7 +929,7 @@
             "CharacterExpGrowth": {
                 "En": "Character EXP",
                 "Jp": "キャラクターEXP",
-                "Kr": null,
+                "Kr": "캐릭터 EXP",
                 "Th": "EXP ตัวละคร",
                 "Tw": "角色經驗",
                 "Cn": "角色经验",
@@ -1611,7 +1611,7 @@
             "Special": {
                 "En": "Status Effect",
                 "Jp": "特殊状態",
-                "Kr": null,
+                "Kr": "상태 효과",
                 "Th": "เอฟเฟกต์พิเศษ",
                 "Tw": "狀態效果",
                 "Cn": "特殊状态",
@@ -1622,7 +1622,7 @@
             "Buff_AidAttitude": {
                 "En": "First Aid Ready",
                 "Jp": "「救護の心構え」",
-                "Kr": null,
+                "Kr": "구호의 마음가짐",
                 "Th": "หัวใจแห่งการบรรเทาทุกข์",
                 "Tw": "準備急救",
                 "Cn": "「救护准备」",
@@ -1667,7 +1667,7 @@
             "Buff_ConcentratedTarget": {
                 "En": "Focused Assault",
                 "Jp": "集中砲火状態",
-                "Kr": "집중공격",
+                "Kr": "집중 공격",
                 "Th": "ล็อคเป้า",
                 "Tw": "集中攻擊",
                 "Cn": "集火",
@@ -1838,7 +1838,7 @@
             "Buff_ExtendBuffDuration": {
                 "En": "Buff Duration",
                 "Jp": "バフ効果持続力",
-                "Kr": "이로운 효과 유지력",
+                "Kr": "버프 지속시간",
                 "Th": "ระยะเวลาบัพ",
                 "Tw": "增益效果持續力",
                 "Cn": "增益持续力",
@@ -1847,7 +1847,7 @@
             "Buff_ExtendDebuffDuration": {
                 "En": "Debuff Duration",
                 "Jp": "弱体状態持続力",
-                "Kr": "해로운 효과 유지력",
+                "Kr": "디버프 지속시간",
                 "Th": "ระยะเวลาเอฟเฟกต์อันตราย",
                 "Tw": "減益效果持續力",
                 "Cn": "减益持续力",
@@ -2035,7 +2035,7 @@
             "Debuff_ConcentratedTarget": {
                 "En": "Focused Assault",
                 "Jp": "集中砲火状態",
-                "Kr": "집중공격",
+                "Kr": "집중 공격",
                 "Th": "ล็อคเป้า",
                 "Tw": "集中攻擊",
                 "Cn": "集火",
@@ -2527,7 +2527,7 @@
                 "Tw": "集中攻擊",
                 "Cn": "集火",
                 "Vi": "Tập trung mục tiêu",
-                "Kr": "집중공격"
+                "Kr": "집중 공격"
             },
             "Buff_CostChange": {
                 "En": "EX Cost Down",
@@ -2667,7 +2667,7 @@
             "Buff_EnhanceLightArmorRate": {
                 "En": "Light Armor Effectiveness Up",
                 "Jp": "軽装備性能増加",
-                "Kr": "경장갑 강화",
+                "Kr": "경장갑 강화 증가",
                 "Th": "ประสิทธิภาพเกราะเบาเพิ่มขึ้น",
                 "Tw": "輕裝甲強化",
                 "Cn": "轻护甲性能提升",
@@ -2676,7 +2676,7 @@
             "Buff_EnhanceHeavyArmorRate": {
                 "En": "Heavy Armor Effectiveness Up",
                 "Jp": "重装甲性能増加",
-                "Kr": "중장갑 강화",
+                "Kr": "중장갑 강화 증가",
                 "Th": "ประสิทธิภาพเกราะหนักเพิ่มขึ้น",
                 "Tw": "重裝甲強化",
                 "Cn": "重装甲性能提升",
@@ -2685,7 +2685,7 @@
             "Buff_EnhanceUnarmedRate": {
                 "En": "Special Armor Effectiveness Up",
                 "Jp": "特殊装甲性能増加",
-                "Kr": "특수장갑 강화",
+                "Kr": "특수장갑 강화 증가",
                 "Th": "ประสิทธิภาพเกราะพิเศษเพิ่มขึ้น",
                 "Tw": "特殊裝甲強化",
                 "Cn": "特殊装甲性能提升",
@@ -2694,7 +2694,7 @@
             "Buff_ExtendBuffDuration": {
                 "En": "Buff Duration Up",
                 "Jp": "バフ効果持続力増加",
-                "Kr": "이로운 효과 유지력 증가",
+                "Kr": "버프 지속시간 증가",
                 "Th": "ระยะเวลาบัฟเพิ่มขึ้น",
                 "Tw": "增益效果持續力增加",
                 "Cn": "增益持续力提升",
@@ -2703,7 +2703,7 @@
             "Buff_ExtendDebuffDuration": {
                 "En": "Debuff Duration Up",
                 "Jp": "弱体状態持続力増加",
-                "Kr": "해로운 효과 유지력 증가",
+                "Kr": "디버프 지속시간 증가",
                 "Th": "ระยะเวลาเอฟเฟกต์อันตรายเพิ่มขึ้น",
                 "Tw": "減益效果持續力增加",
                 "Cn": "减益持续力提升",
@@ -2895,7 +2895,7 @@
                 "Tw": "集中攻擊",
                 "Cn": "集火",
                 "Vi": "Tập trung mục tiêu",
-                "Kr": "집중공격"
+                "Kr": "집중 공격"
             },
             "Debuff_CostChange": {
                 "En": "EX Cost Up",
@@ -3017,7 +3017,7 @@
             "Debuff_EnhanceLightArmorRate": {
                 "En": "Light Armor Effectiveness Down",
                 "Jp": "軽装備性能減少",
-                "Kr": "경장갑 강화",
+                "Kr": "경장갑 강화 증가",
                 "Th": "ประสิทธิภาพเกราะเบาลดลง",
                 "Tw": "輕裝甲強化",
                 "Cn": "轻护甲性能降低",
@@ -3026,7 +3026,7 @@
             "Debuff_EnhanceHeavyArmorRate": {
                 "En": "Heavy Armor Effectiveness Down",
                 "Jp": "重装甲性能減少",
-                "Kr": "중장갑 강화",
+                "Kr": "중장갑 강화 증가",
                 "Th": "ประสิทธิภาพเกราะหนักลดลง",
                 "Tw": "重裝甲強化",
                 "Cn": "重装甲性能降低",
@@ -3035,7 +3035,7 @@
             "Debuff_EnhanceUnarmedRate": {
                 "En": "Special Armor Effectiveness Down",
                 "Jp": "特殊装甲性能減少",
-                "Kr": "특수장갑 강화",
+                "Kr": "특수장갑 강화 증가",
                 "Th": "ประสิทธิภาพเกราะพิเศษลดลง",
                 "Tw": "特殊裝甲強化",
                 "Cn": "特殊装甲性能降低",
@@ -3398,14 +3398,16 @@
                 "Jp": "攻撃時に会心攻撃が発生する確率を増加する。",
                 "Cn": "提升攻击时的暴击概率",
                 "Th": "เพิ่มโอกาสโจมตีติดคริติคอล",
-                "Vi": "Tăng tỉ lệ đánh trúng đòn chí mạng khi tấn công."
+                "Vi": "Tăng tỉ lệ đánh trúng đòn chí mạng khi tấn công.",
+                "Kr": "치명타를 가할 확률이 증가합니다."
             },
             "Buff_CriticalChanceResistPoint": {
                 "En": "Decerases the chance of receiving a critical hit when being attacked.",
                 "Jp": "被攻撃時に会心攻撃を受ける確率を減少する。",
                 "Cn": "降低受到攻击时暴击的概率",
                 "Th": "ลดโอกาสถูกโจมตีติดคริติคอล",
-                "Vi": "Giảm tỉ lệ nhận đòn chí mạng khi bị tấn công."
+                "Vi": "Giảm tỉ lệ nhận đòn chí mạng khi bị tấn công.",
+                "Kr": "공격 피격 시 치명타를 맞을 확률이 감소합니다."
             },
             "Buff_CriticalDamage": {
                 "En": "Increases the damage dealt by critical hits.",
@@ -3420,26 +3422,29 @@
                 "Jp": "会心攻撃によって受けるダメージを減少する。",
                 "Cn": "降低受到的暴击伤害",
                 "Th": "ลดความเสียหายของการถูกโจมตีคริติคอล",
-                "Vi": "Giảm sát thương nhận được từ các đòn chí mạng."
+                "Vi": "Giảm sát thương nhận được từ các đòn chí mạng.",
+                "Kr": "치명타로 받는 대미지가 감소합니다."
             },
             "Buff_DamagedLimit": {
                 "En": "Limits the amount of damage received from attacks.",
                 "Jp": "攻撃によって受ける最大ダメージを制限する。",
                 "Cn": "限制受到攻击时的最大伤害",
                 "Th": "จำกัดปริมาณความเสียหายที่ได้รับจากการโจมตี",
-                "Vi": "Giới hạn lượng sát thương nhận được từ các cuộc tấn công."
+                "Vi": "Giới hạn lượng sát thương nhận được từ các cuộc tấn công.",
+                "Kr": "공격으로 받을 수 있는 대미지를 제한합니다."
             },
             "Buff_DamagedRatio": {
                 "En": "Decreases all incoming damage by a percentage amount.",
                 "Jp": "すべての被ダメージを一定の割合減少する。",
                 "Cn": "以一定倍率降低受到的所有伤害",
                 "Th": "ลดความเสียหายที่ได้รับลงเป็นเปอร์เซ็นต์",
-                "Vi": "Giảm tất cả sát thương nhận vào theo phần trăm."
+                "Vi": "Giảm tất cả sát thương nhận vào theo phần trăm.",
+                "Kr": "공격으로 받는 대미지가 일정 비율로 감소합니다."
             },
             "Buff_DamageRatio": {
                 "En": "Increases all damage dealt by a percentage amount.",
                 "Jp": "すべての与ダメージを一定の割合増加する。",
-                "Kr": null,
+                "Kr": "대미지가 일정량 증가합니다.",
                 "Th": "เพิ่มความเสียหายที่ทำได้ขึ้นเป็นเปอร์เซ็นต์",
                 "Tw": "以百分比率提升所有造成的傷害。",
                 "Cn": "以一定倍率提升攻击造成的所有伤害",
@@ -3450,285 +3455,325 @@
                 "Jp": "攻撃によって受けるダメージを減少する。",
                 "Cn": "降低受到的伤害",
                 "Th": "ลดความเสียหายเมื่อถูกโจมตี",
-                "Vi": "Giảm sát thương nhận được từ các cuộc tấn công."
+                "Vi": "Giảm sát thương nhận được từ các cuộc tấn công.",
+                "Kr": "공격으로 받는 대미지가 일정량 감소합니다."
             },
             "Buff_Dodge": {
                 "En": "Increases the chance of successfully evading attacks.",
                 "Jp": "攻撃を回避する確率を増加する。",
                 "Cn": "提升闪避攻击的概率",
                 "Th": "เพิ่มโอกาสหลบหลีกการโจมตีได้สำเร็จ",
-                "Vi": "Tăng tỉ lệ né đòn đánh thành công."
+                "Vi": "Tăng tỉ lệ né đòn đánh thành công.",
+                "Kr": "공격을 회피할 확률이 증가합니다."
             },
             "Buff_DotHeal": {
                 "En": "Continuously restores HP at set intervals.",
                 "Jp": "一定間隔でHPを持続的に回復する。",
                 "Cn": "以一定时间间隔持续回复生命值",
                 "Th": "ฟื้นฟู HP ช้าๆ เป็นเวลาต่อเนื่อง",
-                "Vi": "Liên tục khôi phục máu theo các khoảng thời gian đã định."
+                "Vi": "Liên tục khôi phục máu theo các khoảng thời gian đã định.",
+                "Kr": "일정 시간마다 HP를 회복합니다."
             },
             "Buff_EnhanceExplosionRate": {
                 "En": "Increases the damage bonus when dealing Explosive type attacks against Light Armor targets.",
                 "Jp": "軽装備の対象に爆発タイプの攻撃を行う際のダメージ倍率を増加する。",
                 "Cn": "提升爆破伤害对轻护甲单位攻击时的伤害倍率",
                 "Th": "เพิ่มความเสียหายของการโจมตีประเภทระเบิดเมื่อโจมตีใส่เป้าหมายที่มีเกราะเบา",
-                "Vi": "Tăng thêm sát thương gây ra bởi các đòn tấn công loại nổ lên các mục tiêu giáp nhẹ."
+                "Vi": "Tăng thêm sát thương gây ra bởi các đòn tấn công loại nổ lên các mục tiêu giáp nhẹ.",
+                "Kr": "폭발 공격으로 경장갑 적을 공격했을 때 대미지가 증가합니다."
             },
             "Buff_EnhancePierceRate": {
                 "En": "Increases the damage bonus when dealing Piercing type attacks against Heavy Armor targets.",
                 "Jp": "重装甲の対象に貫通タイプの攻撃を行う際のダメージ倍率を増加する。",
                 "Cn": "提升贯通伤害对重装甲单位攻击时的伤害倍率",
                 "Th": "เพิ่มความเสียหายของการโจมตีประเภทเจาะเกราะเมื่อโจมตีใส่เป้าหมายที่มีเกราะหนัก",
-                "Vi": "Tăng thêm sát thương gây ra bởi các đòn tấn công loại xuyên thủng đối với các mục tiêu giáp nặng."
+                "Vi": "Tăng thêm sát thương gây ra bởi các đòn tấn công loại xuyên thủng đối với các mục tiêu giáp nặng.",
+                "Kr": "관통 공격으로 중장갑 적을 공격했을 때 대미지가 증가합니다."
             },
             "Buff_EnhanceMysticRate": {
                 "En": "Increases the damage bonus when dealing Mystic type attacks against Special Armor targets.",
                 "Jp": "特殊装甲の対象に神秘タイプの攻撃を行う際のダメージ倍率を増加する。",
                 "Cn": "提升神秘伤害对特殊装甲单位攻击时的伤害倍率",
                 "Th": "เพิ่มความเสียหายของการโจมตีประเภทลึกลับเมื่อโจมตีใส่เป้าหมายที่มีเกราะพิเศษ",
-                "Vi": "Tăng thêm sát thương gây ra bởi các đòn tấn công loại huyền bí đối với các mục tiêu đặc biệt."
+                "Vi": "Tăng thêm sát thương gây ra bởi các đòn tấn công loại huyền bí đối với các mục tiêu đặc biệt.",
+                "Kr": "신비 공격으로 특수장갑 적을 공격했을 때 대미지가 증가합니다."
             },
             "Buff_EnhanceLightArmorRate": {
                 "En": "Decreases the damage received from attacks when defense type is Light Armor.",
                 "Jp": "防御タイプが軽装備の場合、攻撃によって受けるダメージを減少する。",
                 "Th": "ลดความเสียหายที่ได้รับเมื่อประเภทการป้องกันเป็นเกราะเบา",
                 "Cn": "(暂定)降低护甲类型为轻护甲时受到的伤害",
-                "Vi": "Giảm sát thương nhận vào từ các đòn đánh khi loại phòng thủ thuộc Hạng nhẹ."
+                "Vi": "Giảm sát thương nhận vào từ các đòn đánh khi loại phòng thủ thuộc Hạng nhẹ.",
+                "Kr": "경장갑일 때 받는 대미지량이 감소합니다."
             },
             "Buff_EnhanceHeavyArmorRate": {
                 "En": "Decreases the damage received from attacks when defense type is Heavy Armor.",
                 "Jp": "防御タイプが重装甲の場合、攻撃によって受けるダメージを減少する。",
                 "Th": "ลดความเสียหายที่ได้รับเมื่อประเภทการป้องกันเป็นเกราะหนัก",
                 "Cn": "(暂定)降低护甲类型为重装甲时受到的伤害",
-                "Vi": "Giảm sát thương nhận vào từ các đòn đánh khi loại phòng thủ thuộc Hạng nặng."
+                "Vi": "Giảm sát thương nhận vào từ các đòn đánh khi loại phòng thủ thuộc Hạng nặng.",
+                "Kr": "중장갑일 때 받는 대미지량이 감소합니다."
             },
             "Buff_EnhanceUnarmedRate": {
                 "En": "Decreases the damage received from attacks when defense type is Special Armor.",
                 "Jp": "防御タイプが特殊装甲の場合、攻撃によって受けるダメージを減少する。",
                 "Th": "ลดความเสียหายที่ได้รับเมื่อประเภทการป้องกันเป็นเกราะพิเศษ",
                 "Cn": "(暂定)降低护甲类型为神秘装甲时受到的伤害",
-                "Vi": "Giảm sát thương nhận vào từ các đòn đánh khi loại phòng thủ thuộc Đặc biệt."
+                "Vi": "Giảm sát thương nhận vào từ các đòn đánh khi loại phòng thủ thuộc Đặc biệt.",
+                "Kr": "특수장갑일 때 받는 대미지량이 감소합니다."
             },
             "Buff_ExtendBuffDuration": {
                 "En": "Increases the duration of buffs granted to self and allies.",
                 "Jp": "自分や味方に付与するバフの持続時間を増加する。",
                 "Cn": "提升赋予我方单位增益状态的持续时间",
                 "Th": "เพิ่มระยะเวลาของบัพที่ใช้กับตัวเองและฝ่ายเรา",
-                "Vi": "Tăng thời lượng Buff cho bản thân và đồng đội."
+                "Vi": "Tăng thời lượng Buff cho bản thân và đồng đội.",
+                "Kr": "자신과 아군들에게 향하는 버프 지속시간이 증가합니다."
             },
             "Buff_ExtendDebuffDuration": {
                 "En": "Increases the duration of debuffs inflicted on enemies.",
                 "Jp": "敵に付与するデバフの持続時間を増加する。",
                 "Cn": "提升对敌方单位施加减益状态的持续时间",
                 "Th": "เพิ่มระยะเวลาของเอฟเฟกต์อันตรายที่ใช้ใส่ฝ่ายศัตรู",
-                "Vi": "Tăng thời lượng Debuff gây lên cho đối phương."
+                "Vi": "Tăng thời lượng Debuff gây lên cho đối phương.",
+                "Kr": "적들에게 향하는 디버프 지속시간이 증가합니다."
             },
             "Buff_ExtendCrowdControlDuration": {
                 "En": "Increases the duration of Crowd Control effects inflicted on enemies.",
                 "Jp": "敵に付与するCC状態の持続時間を増加する。",
                 "Cn": "提升对敌方单位施加群控状态的持续时间",
                 "Th": "เพิ่มระยะเวลาของเอฟเฟกต์กดขี่ที่ใช้ใส่ฝ่ายศัตรู",
-                "Vi": "Tăng thời lượng áp đảo gây lên cho đối phương."
+                "Vi": "Tăng thời lượng áp đảo gây lên cho đối phương.",
+                "Kr": "적들에게 향하는 CC 효과 지속시간이 증가합니다."
             },
             "Buff_HealByHit_Damaged": {
                 "En": "Restores HP each time damage is taken from an attack.",
                 "Jp": "攻撃によってダメージを受けるたびにHPを回復する。",
                 "Cn": "每受到一次攻击回复一定量的生命值",
                 "Th": "ฟื้นฟู HP ทุกครั้งที่ได้รับความเสียหายจากการโจมตี",
-                "Vi": "Phục hồi máu mỗi khi nhận sát thương từ đòn tấn công."
+                "Vi": "Phục hồi máu mỗi khi nhận sát thương từ đòn tấn công.",
+                "Kr": "공격으로 대미지를 입을 때마다 일정 HP를 회복합니다."
             },
             "Buff_HealEffectiveness": {
                 "En": "Increases the amount of HP restored from healing abilities that target this character.",
                 "Jp": "このキャラクターを対象とした回復効果によるHP回復量を増加する。",
                 "Cn": "提升该目标受到回复效果时的生命值回复量",
                 "Th": "เพิ่มจำนวน HP ที่ฟื้นฟูจากความสามารถรักษา",
-                "Vi": "Tăng lượng HP phục hồi từ các kỹ năng phục hồi áp dụng lên nhân vật này."
+                "Vi": "Tăng lượng HP phục hồi từ các kỹ năng phục hồi áp dụng lên nhân vật này.",
+                "Kr": "자신에게 향하는 회복량이 일정량 증가합니다."
             },
             "Buff_HealPower": {
                 "En": "Increases the amount of HP restored by healing abilities, and damage absorbed by barrier abilities.",
                 "Jp": "回復効果によるHP回復量やシールド効果が緩和するダメージ量を増加する。",
                 "Cn": "提升回复效果的治疗量与护盾能吸收的伤害量",
                 "Th": "เพิ่มจำนวน HP ที่ฟื้นฟูจากความสามารถรักษาและความเสียหายที่ความสามารถบาเรียดูดซับได้",
-                "Vi": "Tăng lượng máu phục hồi bởi khả năng phục hồi và sát thương hấp thụ bởi khả năng khiên."
+                "Vi": "Tăng lượng máu phục hồi bởi khả năng phục hồi và sát thương hấp thụ bởi khả năng khiên.",
+                "Kr": "회복량과 방어막의 HP가 증가합니다."
             },
             "Buff_HIT": {
                 "En": "Decreases the chance of missing when attacking.",
                 "Jp": "攻撃時にMISSが発生する確率を減少する。",
                 "Cn": "降低攻击被闪避的概率",
                 "Th": "ลดโอกาสที่จะโจมตีไม่โดนเป้าหมายลง",
-                "Vi": "Giảm tỉ lệ bắn hụt khi tấn công."
+                "Vi": "Giảm tỉ lệ bắn hụt khi tấn công.",
+                "Kr": "공격 시 빗나갈 확률이 감소합니다."
             },
             "Buff_MAXHP": {
                 "En": "Increases maximum HP.",
                 "Jp": "最大HPを増加する。",
                 "Cn": "提升最大生命值",
                 "Th": "เพิ่มจำนวน HP สูงสุด",
-                "Vi": "Tăng máu tối đa."
+                "Vi": "Tăng máu tối đa.",
+                "Kr": "최대 HP가 증가합니다."
             },
             "Buff_MoveSpeed": {
                 "En": "Increases movement speed.",
                 "Jp": "移動速度を増加する。",
                 "Cn": "提升移动速度",
                 "Th": "เพิ่มความเร็วเคลื่อนที่",
-                "Vi": "Tăng tốc độ di chuyển."
+                "Vi": "Tăng tốc độ di chuyển.",
+                "Kr": "이동 속도가 증가합니다."
             },
             "Buff_OppressionPower": {
                 "En": "Increases the chance of successfully inflicting Crowd Control effects.",
                 "Jp": "CC状態を付与する確率を増加する。",
                 "Cn": "提升成功施加群控状态的概率",
                 "Th": "เพิ่มโอกาสในการส่งผลเอฟเฟกต์กดขี่สำเร็จ",
-                "Vi": "Tăng tỉ lệ gây hiệu ứng kiểm soát đám đông thành công."
+                "Vi": "Tăng tỉ lệ gây hiệu ứng kiểm soát đám đông thành công.",
+                "Kr": "CC 효과를 맞출 확률이 증가합니다."
             },
             "Buff_OppressionResist": {
                 "En": "Decreases the chance of being inflicting with Crowd Control effects.",
                 "Jp": "CC状態を付与される確率を減少する。",
                 "Cn": "降低被施加群控状态的概率",
                 "Th": "ลดโอกาสในการได้รับผลจากเอฟเฟกต์กดขี่",
-                "Vi": "Giảm tỉ lệ bị dính các hiệu ứng kiểm soát đám đông."
+                "Vi": "Giảm tỉ lệ bị dính các hiệu ứng kiểm soát đám đông.",
+                "Kr": "CC 효과를 맞을 확률이 감소합니다."
             },
             "Buff_Penetration": {
                 "En": "Increases the amount of enemy defense that will be ignored by attacks.",
                 "Jp": "攻撃時に無視される敵の防御力の量を増加する。",
                 "Cn": "提升攻击时无视目标防御力的量",
                 "Th": "เพิ่มจำนวนค่าป้องกันที่จะไม่สนใจในการโจมตี",
-                "Vi": "Tăng tỉ lệ lượng phòng thủ của kẻ thù sẽ bị bỏ qua bởi các đòn đánh."
+                "Vi": "Tăng tỉ lệ lượng phòng thủ của kẻ thù sẽ bị bỏ qua bởi các đòn đánh.",
+                "Kr": "적의 방어력을 무시하는 비율이 증가합니다."
             },
             "Buff_Range": {
                 "En": "Increases the distance from which Normal Attacks can be performed.",
                 "Jp": "通常攻撃が行える距離を増加する。",
                 "Cn": "提升普通攻击的射程",
                 "Th": "เพิ่มระยะในการการโจมตีปกติ",
-                "Vi": "Tăng khoảng cách có thể thực hiện đòn đánh thường."
+                "Vi": "Tăng khoảng cách có thể thực hiện đòn đánh thường.",
+                "Kr": "일반 공격의 사거리가 증가합니다."
             },
             "Buff_Shield": {
                 "En": "Absorbs a set amount of damage.",
                 "Jp": "一定量のダメージを緩和する。",
                 "Cn": "吸收一定量的伤害",
                 "Th": "ดูดซับความเสียหายที่ได้รับเป็นจำนวนหนึ่ง",
-                "Vi": "Hấp thụ một lượng sát thương nhất định."
+                "Vi": "Hấp thụ một lượng sát thương nhất định.",
+                "Kr": "일정량의 대미지를 흡수합니다."
             },
             "Buff_Stability": {
                 "En": "Increases the minimum damage dealt by attacks due to random damage variance.",
                 "Jp": "乱数による与ダメージの下限を増加する。",
                 "Cn": "提升攻击伤害随机波动区间的下限",
                 "Th": "เพิ่มความเสียหายขั้นต่ำที่สามารถทำได้ในการโจมตี",
-                "Vi": "Tăng sát thương tối thiểu gây ra bởi các đòn tấn công do phương sai sát thương ngẫu nhiên."
+                "Vi": "Tăng sát thương tối thiểu gây ra bởi các đòn tấn công do phương sai sát thương ngẫu nhiên.",
+                "Kr": "공격의 안정성이 증가합니다."
             },
             "Debuff_AmmoCount": {
                 "En": "Decreases the maximum amount of weapon ammunition used by Normal Attacks.",
                 "Jp": "通常攻撃に使用する武器の最大装弾数を減少する。",
                 "Cn": "降低武器普通攻击的载弹量",
                 "Th": "ลดจำนวนกระสุนสูงสุดของอาวุธในการโจมตีปกติ",
-                "Vi": "Giảm lượng đạn tối đa của vũ khí được sử dụng bởi các đòn đánh thường."
+                "Vi": "Giảm lượng đạn tối đa của vũ khí được sử dụng bởi các đòn đánh thường.",
+                "Kr": "일반 공격에 사용되는 무기의 장탄수가 감소합니다."
             },
             "Debuff_ATK": {
                 "En": "Decreases the amount of damage dealt by attacks.",
                 "Jp": "攻撃によって与えるダメージを減少する。",
                 "Cn": "降低攻击造成的伤害",
                 "Th": "ลดความเสียหายของการโจมตี",
-                "Vi": "Giảm lượng sát thương gây ra bởi các đòn tấn công."
+                "Vi": "Giảm lượng sát thương gây ra bởi các đòn tấn công.",
+                "Kr": "공격으로 가하는 대미지가 감소합니다."
             },
             "Debuff_AttackSpeed": {
                 "En": "Decreases the speed of Normal Attacks and reloads, and increases attack delay.",
                 "Jp": "通常攻撃とリロードの速度を減少し攻撃間隔を増加する。",
                 "Cn": "降低普通攻击与换弹的速度，并延长攻击间隔",
                 "Th": "ลดความเร็วการโจมตี, รีโหลดและเพิ่มดีเลย์ในการโจมตี",
-                "Vi": "Giảm tốc độ của đòn đánh thường và nạp đạn, đồng thời sẽ tăng độ trễ của đòn đánh."
+                "Vi": "Giảm tốc độ của đòn đánh thường và nạp đạn, đồng thời sẽ tăng độ trễ của đòn đánh.",
+                "Kr": "기본 공격 속도와 재장전 속도가 감소하고, 공격 딜레이가 증가합니다."
             },
             "Debuff_BlockRate": {
                 "En": "Decreases the chance of successfully blocking attacks when taking cover.",
                 "Jp": "遮蔽物使用時にブロックに成功する確率を減少する。",
                 "Cn": "降低处于掩体掩护状态时掩体阻挡攻击的概率",
                 "Th": "ลดโอกาสกำบังสำเร็จเมื่ออยู่ในกำบัง",
-                "Vi": "Giảm tỉ lệ chặn thành công các đòn đánh khi ẩn nấp."
+                "Vi": "Giảm tỉ lệ chặn thành công các đòn đánh khi ẩn nấp.",
+                "Kr": "엄폐중일 때 피해를 막아낼 확률이 감소합니다."
             },
             "Debuff_Burn": {
                 "En": "Continuously receives Burn damage at set intervals. This damage cannot critically hit.",
                 "Jp": "一定間隔で火傷ダメージを受ける。このダメージでは会心は発生しない。",
                 "Cn": "以一定时间间隔受到烧伤伤害(该伤害无法暴击)",
                 "Th": "ได้รับความเสียหายเผาไหม้ต่อเนื่อง<br>ความเสียหายนี้ไม่สามารถติดคริติคอลได้",
-                "Vi": "Liên tục nhận sát thương bị bỏng trong các khoảng thời gian đã định. Sát thương này không thể gây ra chí mạng."
+                "Vi": "Liên tục nhận sát thương bị bỏng trong các khoảng thời gian đã định. Sát thương này không thể gây ra chí mạng.",
+                "Kr": "화상 대미지를 지속적으로 받습니다. 이 대미지는 치명 공격이 발동되지 않습니다."
             },
             "Debuff_Cheerleading": {
                 "En": "Continuously receives damage at set intervals. This damage cannot critically hit.",
                 "Jp": "一定間隔でダメージを受ける。このダメージでは会心は発生しない。",
                 "Cn": "以一定时间间隔受到伤害(该伤害无法暴击)",
                 "Th": "ได้รับความเสียหายร้อนแรงต่อเนื่อง<br>ความเสียหายนี้ไม่สามารถติดคริติคอลได้",
-                "Vi": "Liên tục nhận sát thương trong khoảng thời gian đã định. Sát thương này không thể gây ra chí mạng."
+                "Vi": "Liên tục nhận sát thương trong khoảng thời gian đã định. Sát thương này không thể gây ra chí mạng.",
+                "Kr": "대미지를 지속적으로 받습니다. 이 대미지는 치명 공격이 발동되지 않습니다."
             },
             "Debuff_Chill": {
                 "En": "Continuously receives Chill damage at set intervals. This damage cannot critically hit.",
                 "Jp": "一定間隔で悪寒ダメージを受ける。このダメージでは会心は発生しない。",
                 "Cn": "以一定时间间隔受到恶寒伤害(该伤害无法暴击)",
                 "Th": "ได้รับความเสียหายหนาวสั่นต่อเนื่อง<br>ความเสียหายนี้ไม่สามารถติดคริติคอลได้",
-                "Vi": "Liên tục nhận sát thương lạnh trong các khoảng thời gian đã định. Sát thương này không thể gây ra chí mạng."
+                "Vi": "Liên tục nhận sát thương lạnh trong các khoảng thời gian đã định. Sát thương này không thể gây ra chí mạng.",
+                "Kr": "오한 대미지를 지속적으로 받습니다. 이 대미지는 치명 공격이 발동되지 않습니다."
             },
             "Debuff_ConcentratedTarget": {
                 "En": "Becomes the priority target of enemies' attacks.",
                 "Jp": "敵の攻撃の優先目標になる。",
                 "Cn": "成为敌方优先攻击的目标",
                 "Th": "เป็นเป้าหมายหลักในการโจมตีของศัตรู",
-                "Vi": "Trở thành mục tiêu ưu tiên trong các cuộc tấn công của kẻ thù."
+                "Vi": "Trở thành mục tiêu ưu tiên trong các cuộc tấn công của kẻ thù.",
+                "Kr": "적들의 공격의 주요 목표가 됩니다."
             },
             "Debuff_CostChange": {
                 "En": "Increases the amount of skill cost required for using the EX Skill.",
                 "Jp": "EXスキルの使用に必要なコストを増加する。",
                 "Cn": "提升使用EX技能所需的技能COST",
                 "Th": "เพิ่มจำนวนค่าใช้สกิล EX ที่ต้องการในการใช้สกิล EX",
-                "Vi": "Tăng lượng chi phí kỹ năng cần thiết khi sử dụng kỹ năng EX."
+                "Vi": "Tăng lượng chi phí kỹ năng cần thiết khi sử dụng kỹ năng EX.",
+                "Kr": "EX 스킬을 사용할 때 필요한 코스트가 증가합니다."
             },
             "Debuff_CostRegen": {
                 "En": "Decreases the rate at which skill cost is recovered.",
                 "Jp": "コスト回復速度を減少する。",
                 "Cn": "降低技能COST回复速度",
                 "Th": "ลดความเร็วในการฟื้นฟูค่าใช้สกิล EX",
-                "Vi": "Giảm tốc độ hồi phục chi phí kỹ năng."
+                "Vi": "Giảm tốc độ hồi phục chi phí kỹ năng.",
+                "Kr": "스킬 코스트가 회복되는 속도가 감소합니다."
             },
             "Debuff_CriticalChance": {
                 "En": "Decreases the chance of landing a critical hit when attacking.",
                 "Jp": "攻撃時に会心攻撃が発生する確率を減少する。",
                 "Cn": "降低攻击时的暴击概率",
                 "Th": "ลดโอกาสโจมตีติดคริติคอล",
-                "Vi": "Giảm tỉ lệ đánh trúng đòn chí mạng khi tấn công."
+                "Vi": "Giảm tỉ lệ đánh trúng đòn chí mạng khi tấn công.",
+                "Kr": "치명타를 가할 확률이 감소합니다."
             },
             "Debuff_CriticalChanceResistPoint": {
                 "En": "Increases the chance of receiving a critical hit when being attacked.",
                 "Jp": "被攻撃時に会心攻撃を受ける確率を増加する。",
                 "Cn": "提升受到攻击时暴击的概率",
                 "Th": "เพิ่มโอกาสถูกโจมตีติดคริติคอล",
-                "Vi": "Tăng tỉ lệ nhận đòn chí mạng khi bị tấn công."
+                "Vi": "Tăng tỉ lệ nhận đòn chí mạng khi bị tấn công.",
+                "Kr": "공격 피격 시 치명타를 맞을 확률이 증가합니다."
             },
             "Debuff_CriticalDamage": {
                 "En": "Decreases the damage dealt by critical hits.",
                 "Jp": "会心攻撃によって与えるダメージを減少する。",
                 "Cn": "降低暴击造成的伤害",
                 "Th": "ลดความเสียหายของการโจมตีคริติคอล",
-                "Vi": "Giảm sát thương gây ra bởi các đòn chí mạng."
+                "Vi": "Giảm sát thương gây ra bởi các đòn chí mạng.",
+                "Kr": "치명타로 가하는 대미지가 감소합니다."
             },
             "Debuff_CriticalDamageRateResist": {
                 "En": "Increases the damage received from critical hits.",
                 "Jp": "会心攻撃によって受けるダメージを増加する。",
                 "Cn": "提升受到的暴击伤害",
                 "Th": "เพิ่มความเสียหายของการถูกโจมตีคริติคอล",
-                "Vi": "Tăng sát thương nhận được từ các đòn chí mạng."
+                "Vi": "Tăng sát thương nhận được từ các đòn chí mạng.",
+                "Kr": "치명타로 받는 대미지가 증가합니다."
             },
             "Debuff_DamageByHit_Damaged": {
                 "En": "Receives additional damage when being attacked.",
                 "Jp": "攻撃された時に追加ダメージを受ける。",
                 "Cn": "被攻击时将受到追加伤害",
                 "Th": "ได้รับความเสียหายเพิ่มเติมทุกครั้งที่ถูกโจมตี",
-                "Vi": "Nhận thêm sát thương khi bị tấn công."
+                "Vi": "Nhận thêm sát thương khi bị tấn công.",
+                "Kr": "공격 피격 시 추가 대미지를 받습니다."
             },
             "Debuff_DamagedRatio": {
                 "En": "Increases all incoming damage by a percentage amount.",
                 "Jp": "すべての被ダメージを一定の割合増加する。",
                 "Cn": "以一定倍率提升受到的所有伤害",
                 "Th": "เพิ่มความเสียหายที่ได้รับขึ้นเป็นเปอร์เซ็นต์",
-                "Vi": "Tăng tất cả sát thương nhận vào theo phần trăm."
+                "Vi": "Tăng tất cả sát thương nhận vào theo phần trăm.",
+                "Kr": "공격으로 받는 대미지가 일정 비율로 증가합니다."
             },
             "Debuff_DamageRatio": {
                 "En": "Decreases all damage dealt by a percentage amount.",
                 "Jp": "すべての与ダメージを一定の割合減少する。",
-                "Kr": null,
+                "Kr": "대미지가 일정량 감소합니다.",
                 "Th": "ลดความเสียหายที่ทำได้ลงเป็นเปอร์เซ็นต์",
                 "Tw": "以百分比率減少所有造成的傷害。",
                 "Cn": "以一定倍率降低攻击造成的所有伤害",
@@ -3739,173 +3784,197 @@
                 "Jp": "攻撃によって受けるダメージを増加する。",
                 "Cn": "提升受到的伤害",
                 "Th": "เพิ่มความเสียหายเมื่อถูกโจมตี",
-                "Vi": "Tăng sát thương nhận được từ các cuộc tấn công."
+                "Vi": "Tăng sát thương nhận được từ các cuộc tấn công.",
+                "Kr": "공격으로 받는 대미지가 일정량 증가합니다."
             },
             "Debuff_Dodge": {
                 "En": "Decreases the chance of successfully evading attacks.",
                 "Jp": "攻撃を回避する確率を減少する。",
                 "Cn": "降低闪避攻击的概率",
                 "Th": "ลดโอกาสหลบหลีกการโจมตีได้สำเร็จ",
-                "Vi": "Giảm tỉ lệ né đòn đánh thành công."
+                "Vi": "Giảm tỉ lệ né đòn đánh thành công.",
+                "Kr": "공격을 회피할 확률이 감소합니다."
             },
             "Debuff_EnhanceExplosionRate": {
                 "En": "Decreases the damage bonus when dealing Explosive type attacks against Light Armor targets.",
                 "Jp": "軽装備の対象に爆発タイプの攻撃を行う際のダメージ倍率を減少する。",
                 "Cn": "降低爆破伤害对轻护甲单位攻击时的伤害倍率",
                 "Th": "ลดความเสียหายของการโจมตีประเภทระเบิดเมื่อโจมตีใส่เป้าหมายที่มีเกราะเบา",
-                "Vi": "Giảm bớt sát thương cộng thêm khi gây ra các đòn tấn công loại nổ lên các mục tiêu giáp nhẹ."
+                "Vi": "Giảm bớt sát thương cộng thêm khi gây ra các đòn tấn công loại nổ lên các mục tiêu giáp nhẹ.",
+                "Kr": "폭발 공격으로 경장갑 적을 공격했을 때 대미지가 감소합니다."
             },
             "Debuff_EnhancePierceRate": {
                 "En": "Decreases the damage bonus when dealing Piercing type attacks against Heavy Armor targets.",
                 "Jp": "重装甲の対象に貫通タイプの攻撃を行う際のダメージ倍率を減少する。",
                 "Cn": "降低贯通伤害对重装甲单位攻击时的伤害倍率",
                 "Th": "ลดความเสียหายของการโจมตีประเภทเจาะเกราะเมื่อโจมตีใส่เป้าหมายที่มีเกราะหนัก",
-                "Vi": "Giảm bớt sát thương cộng thêm khi gây ra các đòn tấn công loại xuyên thủng lên các mục tiêu giáp nặng."
+                "Vi": "Giảm bớt sát thương cộng thêm khi gây ra các đòn tấn công loại xuyên thủng lên các mục tiêu giáp nặng.",
+                "Kr": "관통 공격으로 중장갑 적을 공격했을 때 대미지가 감소합니다."
             },
             "Debuff_EnhanceMysticRate": {
                 "En": "Decreases the damage bonus when dealing Mystic type attacks against Special Armor targets.",
                 "Jp": "特殊装甲の対象に神秘タイプの攻撃を行う際のダメージ倍率を減少する。",
                 "Cn": "降低神秘伤害对特殊装甲单位攻击时的伤害倍率",
                 "Th": "ลดความเสียหายของการโจมตีประเภทลึกลับเมื่อโจมตีใส่เป้าหมายที่มีเกราะพิเศษ",
-                "Vi": "Giảm bớt sát thương cộng thêm khi gây ra các đòn tấn công loại huyền bí lên các mục tiêu đặc biệt."
+                "Vi": "Giảm bớt sát thương cộng thêm khi gây ra các đòn tấn công loại huyền bí lên các mục tiêu đặc biệt.",
+                "Kr": "신비 공격으로 특수장갑 적을 공격했을 때 대미지가 감소합니다."
             },
             "Debuff_EnhanceLightArmorRate": {
                 "En": "Increases the damage received from attacks when defense type is Light Armor.",
                 "Jp": "防御タイプが軽装備の場合、攻撃によって受けるダメージを増加する。",
                 "Th": "เพิ่มความเสียหายที่ได้รับเมื่อประเภทการป้องกันเป็นเกราะเบา",
                 "Cn": "(暂定)提升护甲类型为轻护甲时受到的伤害",
-                "Vi": "Tăng sát thương nhận vào từ các đòn đánh khi loại phòng thủ thuộc Hạng nhẹ."
+                "Vi": "Tăng sát thương nhận vào từ các đòn đánh khi loại phòng thủ thuộc Hạng nhẹ.",
+                "Kr": "경장갑일 때 받는 대미지량이 증가합니다."
             },
             "Debuff_EnhanceHeavyArmorRate": {
                 "En": "Increases the damage received from attacks when defense type is Heavy Armor.",
                 "Jp": "防御タイプが重装甲の場合、攻撃によって受けるダメージを増加する。",
                 "Th": "เพิ่มความเสียหายที่ได้รับเมื่อประเภทการป้องกันเป็นเกราะหนัก",
                 "Cn": "(暂定)提升护甲类型为重装甲时受到的伤害",
-                "Vi": "Tăng sát thương nhận vào từ các đòn đánh khi loại phòng thủ thuộc Hạng nặng."
+                "Vi": "Tăng sát thương nhận vào từ các đòn đánh khi loại phòng thủ thuộc Hạng nặng.",
+                "Kr": "중장갑일 때 받는 대미지량이 증가합니다."
             },
             "Debuff_EnhanceUnarmedRate": {
                 "En": "Increases the damage received from attacks when defense type is Special Armor.",
                 "Jp": "防御タイプが特殊装甲の場合、攻撃によって受けるダメージを増加する。",
                 "Th": "เพิ่มความเสียหายที่ได้รับเมื่อประเภทการป้องกันเป็นเกราะพิเศษ",
                 "Cn": "(暂定)提升护甲类型为神秘装甲时受到的伤害",
-                "Vi": "Tăng sát thương nhận vào từ các đòn đánh khi loại phòng thủ thuộc Đặc biệt."
+                "Vi": "Tăng sát thương nhận vào từ các đòn đánh khi loại phòng thủ thuộc Đặc biệt.",
+                "Kr": "특수장갑일 때 받는 대미지량이 증가합니다."
             },
             "Debuff_HealedLimit": {
                 "En": "Limits the amount of HP healing abilities will restore.",
                 "Jp": "回復スキルによるHP回復量を制限する。",
                 "Cn": "限制受到回复效果时的生命值最大回复量",
                 "Th": "จำกัดจำนวน HP ที่ฟื้นฟูจากความสามารถรักษา",
-                "Vi": "Giới hạn lượng máu sẽ phục hồi."
+                "Vi": "Giới hạn lượng máu sẽ phục hồi.",
+                "Kr": "치유로 회복되는 HP의 양을 제한합니다."
             },
             "Debuff_HealEffectiveness": {
                 "En": "Decreases the amount of HP restored from healing abilities that target this character.",
                 "Jp": "このキャラクターを対象とした回復効果によるHP回復量を減少する。",
                 "Cn": "降低该目标受到回复效果时的生命值回复量",
                 "Th": "ลดจำนวน HP ที่ฟื้นฟูจากความสามารถรักษา",
-                "Vi": "Giảm lượng HP phục hồi từ các kỹ năng phục hồi áp dụng lên nhân vật này."
+                "Vi": "Giảm lượng HP phục hồi từ các kỹ năng phục hồi áp dụng lên nhân vật này.",
+                "Kr": "자신에게 향하는 회복량이 일정량 감소합니다."
             },
             "Debuff_HealPower": {
                 "En": "Decreases the amount of HP restored by healing abilities, and damage absorbed by barrier abilities.",
                 "Jp": "回復効果によるHP回復量やシールド効果が緩和するダメージ量を減少する。",
                 "Cn": "降低回复效果的治疗量与护盾能吸收的伤害量",
                 "Th": "ลดจำนวน HP ที่ฟื้นฟูจากความสามารถรักษาและความเสียหายที่ความสามารถบาเรียดูดซับได้",
-                "Vi": "Giảm lượng máu phục hồi bởi khả năng phục hồi và sát thương hấp thụ bởi khả năng khiên."
+                "Vi": "Giảm lượng máu phục hồi bởi khả năng phục hồi và sát thương hấp thụ bởi khả năng khiên.",
+                "Kr": "회복량과 방어막의 HP가 감소합니다."
             },
             "Debuff_Hieronymus": {
                 "En": "Inflicts continuous damage over time. Inflicts a large amount of damage in a circular area around the target if this debuff is not removed before it expires. This debuff can only be removed by healing the afflicted to 100% HP.",
                 "Jp": "持続ダメージ状態を付与。この状態が制限時間内に解除されなかった時、その対象を中心とした円形範囲内の敵に大ダメージを与える。この状態の付与時に対象のHPが100％だった場合、または対象のHPを100％まで回復した場合にこの状態は解除される。",
                 "Cn": "对该目标造成持续伤害。若该状态在一定时间内未解除，则对该目标及其周围圆形范围内的敌方单位造成大量伤害。当该目标的的生命值为100%或回复至100%时该状态将自动解除",
                 "Th": "สร้างความเสียหายอย่างต่อเนื่อง<br>สร้างความเสียหายรุนแรงในรัศมีรอบเป้าหมายหากดีบัฟไม่ถูกล้างออกก่อนระยะเวลาดีบัฟจบลง<br>ดีบัฟสามารถถูกล้างออกด้วยการรักษาเป้าหมายให้ HP เป็น 100%",
-                "Vi": "Gây sát thương liên tục theo thời gian. Gây một lượng lớn sát thương trong một khu vực hình tròn xung quanh mục tiêu nếu debuff này không được gỡ bỏ trước khi hết hiệu lực. Chỉ có thể loại bỏ debuff này bằng cách hồi phục 100% máu cho nhân vật bị ảnh hưởng."
+                "Vi": "Gây sát thương liên tục theo thời gian. Gây một lượng lớn sát thương trong một khu vực hình tròn xung quanh mục tiêu nếu debuff này không được gỡ bỏ trước khi hết hiệu lực. Chỉ có thể loại bỏ debuff này bằng cách hồi phục 100% máu cho nhân vật bị ảnh hưởng.",
+                "Kr": "지속 대미지를 부여합니다. 지속 시간이 끝나기 전까지 해제되지 않았을 경우 주위 원 형태의 범위에 큰 대미지를 입힙니다. 디버프가 부여된 캐릭터의 HP가 100%로 치유됐을 경우, 디버프는 해제됩니다."
             },
             "Debuff_HIT": {
                 "En": "Increases the chance of missing when attacking.",
                 "Jp": "攻撃時にMISSが発生する確率が増加する。",
                 "Cn": "提升攻击被闪避的概率",
                 "Th": "เพิ่มโอกาสที่จะโจมตีไม่โดนเป้าหมายขึ้น",
-                "Vi": "Tăng tỉ lệ bắn hụt khi tấn công."
+                "Vi": "Tăng tỉ lệ bắn hụt khi tấn công.",
+                "Kr": "공격 시 빗나갈 확률이 증가합니다."
             },
             "Debuff_MAXHP": {
                 "En": "Decreases maximum HP.",
                 "Jp": "最大HPを減少する。",
                 "Cn": "降低最大生命值",
                 "Th": "ลดจำนวน HP สูงสุด",
-                "Vi": "Giảm máu tối đa."
+                "Vi": "Giảm máu tối đa.",
+                "Kr": "최대 HP가 감소합니다."
             },
             "Debuff_MoveSpeed": {
                 "En": "Decreases movement speed.",
                 "Jp": "移動速度を減少する。",
                 "Cn": "降低移动速度",
                 "Th": "ลดความเร็วเคลื่อนที่",
-                "Vi": "Giảm tốc độ di chuyển."
+                "Vi": "Giảm tốc độ di chuyển.",
+                "Kr": "이동 속도가 감소합니다."
             },
             "Debuff_OppressionPower": {
                 "En": "Decreases the chance of successfully inflicting Crowd Control effects.",
                 "Jp": "CC状態を付与する確率が減少する。",
                 "Cn": "降低成功施加群控状态的概率",
                 "Th": "ลดโอกาสในการส่งผลเอฟเฟกต์กดขี่สำเร็จ",
-                "Vi": "Giảm tỉ lệ gây hiệu ứng kiểm soát đám đông thành công."
+                "Vi": "Giảm tỉ lệ gây hiệu ứng kiểm soát đám đông thành công.",
+                "Kr": "CC 효과를 맞출 확률이 감소합니다."
             },
             "Debuff_OppressionResist": {
                 "En": "Increases the chance of being inflicting with Crowd Control effects.",
                 "Jp": "CC状態を付与される確率が増加する。",
                 "Cn": "提升被施加群控状态的概率",
                 "Th": "เพิ่มโอกาสในการได้รับผลจากเอฟเฟกต์กดขี่",
-                "Vi": "Tăng tỉ lệ bị dính các hiệu ứng kiểm soát đám đông."
+                "Vi": "Tăng tỉ lệ bị dính các hiệu ứng kiểm soát đám đông.",
+                "Kr": "CC 효과를 맞을 확률이 증가합니다."
             },
             "Debuff_Penetration": {
                 "En": "Decreases the amount of enemy defense that will be ignored by attacks.",
                 "Jp": "攻撃時に無視される敵の防御力の量が減少する。",
                 "Cn": "降低攻击时无视目标防御力的量",
                 "Th": "ลดจำนวนค่าป้องกันที่จะไม่สนใจในการโจมตี",
-                "Vi": "Giảm tỉ lệ lượng phòng thủ của kẻ thù sẽ bị bỏ qua bởi các đòn đánh."
+                "Vi": "Giảm tỉ lệ lượng phòng thủ của kẻ thù sẽ bị bỏ qua bởi các đòn đánh.",
+                "Kr": "적의 방어력을 무시하는 비율이 감소합니다."
             },
             "Debuff_Poison": {
                 "En": "Continuously receives poison damage at set intervals. This damage cannot critically hit.",
                 "Jp": "一定間隔で中毒ダメージを受ける。このダメージでは会心は発生しない。",
                 "Cn": "以一定时间间隔受到中毒伤害(该伤害无法暴击)",
                 "Th": "ได้รับความเสียหายพิษต่อเนื่อง<br>ความเสียหายนี้ไม่สามารถติดคริติคอลได้",
-                "Vi": "Liên tục nhận sát thương độc trong các khoảng thời gian đã định. Sát thương này không thể gây ra chí mạng."
+                "Vi": "Liên tục nhận sát thương độc trong các khoảng thời gian đã định. Sát thương này không thể gây ra chí mạng.",
+                "Kr": "독 대미지를 지속적으로 받습니다. 이 대미지는 치명 공격이 발동되지 않습니다."
             },
             "Debuff_Range": {
                 "En": "Decreases the distance from which Normal Attacks can be performed.",
                 "Jp": "通常攻撃を行える距離が減少する。",
                 "Cn": "降低普通攻击的射程",
                 "Th": "ลดระยะในการการโจมตีปกติ",
-                "Vi": "Giảm khoảng cách có thể thực hiện đòn đánh thường."
+                "Vi": "Giảm khoảng cách có thể thực hiện đòn đánh thường.",
+                "Kr": "일반 공격의 사거리가 감소합니다."
             },
             "Debuff_Stability": {
                 "En": "Decreases the minimum damage dealt by attacks due to random damage variance.",
                 "Jp": "乱数による与ダメージの下限が低下する。",
                 "Cn": "降低攻击伤害随机波动区间的下限",
                 "Th": "ลดความเสียหายขั้นต่ำที่สามารถทำได้ในการโจมตี",
-                "Vi": "Giảm sát thương tối thiểu gây ra bởi các đòn tấn công do phương sai sát thương ngẫu nhiên."
+                "Vi": "Giảm sát thương tối thiểu gây ra bởi các đòn tấn công do phương sai sát thương ngẫu nhiên.",
+                "Kr": "공격의 안정성이 감소합니다."
             },
             "CC_Fear": {
                 "En": "Unable to act and will slowly move away from whoever inflicted fear on them. Also interrupts any active skills.",
                 "Jp": "行為不能になり恐怖を付与してきた対象からゆっくりと遠ざかる。発生中のスキルも妨害される。",
                 "Cn": "无法控制，将慢慢远离对其施加该状态的单位/\n技能将被打断",
                 "Th": "ไม่สามารถตอบสนองได้และจะค่อยๆ เคลื่อนที่ออกจากคนที่ส่งผลเอฟเฟกต์กลัว นอกจากนี้การใช้งานสกิลทั้งหมดจะถูกยกเลิก",
-                "Vi": "Không thể hành động và sẽ từ từ tránh xa kẻ đã gây ra nỗi sợ hãi cho họ. Cũng làm gián đoạn bất kỳ kỹ năng hoạt động nào."
+                "Vi": "Không thể hành động và sẽ từ từ tránh xa kẻ đã gây ra nỗi sợ hãi cho họ. Cũng làm gián đoạn bất kỳ kỹ năng hoạt động nào.",
+                "Kr": "행동하지 못하고 공포를 건 캐릭터에게서 천천히 멀어집니다. 발동 중인 스킬은 정지됩니다."
             },
             "CC_Stunned": {
                 "En": "Unable to act and interrupts any active skills.",
                 "Jp": "行為不能になり発生中のスキルが妨害される。",
                 "Th": "ไม่สามารถตอบสนองได้ นอกจากนี้การใช้งานสกิลทั้งหมดจะถูกยกเลิก",
                 "Cn": "无法行动/\n技能将被打断",
-                "Vi": "Không thể hành động và làm gián đoạn bất kỳ kỹ năng đang hoạt động nào."
+                "Vi": "Không thể hành động và làm gián đoạn bất kỳ kỹ năng đang hoạt động nào.",
+                "Kr": "행동하지 못하고 발동 중인 스킬은 정지됩니다."
             },
             "CC_Provoke": {
                 "En": "Forced to attack whoever inflicted taunt on them. Also interrupts any active skills.",
                 "Jp": "挑発状態を付与してきた対象を強制的に攻撃する。発生中のスキルも妨害される。",
                 "Cn": "无法控制，将强制攻击对其施加该状态的单位/\n技能将被打断",
                 "Th": "ถูกบังคับให้โจมตีใส่คนที่ส่งผลเอฟเฟกต์ยั่วยุ นอกจากนี้การใช้งานสกิลทั้งหมดจะถูกยกเลิก",
-                "Vi": "Buộc phải tấn công bất cứ ai đã chế nhạo họ. Cũng làm gián đoạn bất kỳ kỹ năng hoạt động nào."
+                "Vi": "Buộc phải tấn công bất cứ ai đã chế nhạo họ. Cũng làm gián đoạn bất kỳ kỹ năng hoạt động nào.",
+                "Kr": "도발을 건 캐릭터를 공격하게 됩니다. 발동 중인 스킬은 정지됩니다."
             },
             "CC_Paralysis": {
                 "En": "Unable to act and interrupts any active skills.",
                 "Jp": "行為不能になり発生中のスキルが妨害される。",
-                "Kr": null,
+                "Kr": "행동하지 못하고 발동 중인 스킬은 정지됩니다.",
                 "Th": "ไม่สามารถตอบสนองได้ นอกจากนี้การใช้งานสกิลทั้งหมดจะถูกยกเลิก",
                 "Tw": "無法行動並打斷任何主動技能。",
                 "Cn": "无法行动/\n技能将被打断",
@@ -3916,21 +3985,24 @@
                 "Jp": "アリスのEXスキルとサブスキルの効果を1.5倍（1段階チャージ時）または2倍（2段階チャージ時）に増加する。EXスキルを使用すると初期化される。",
                 "Cn": "提升爱丽丝EX技能和子技能的效果至1.5倍(半充能)/2倍(完全充能)\n使用EX技能后能量清零",
                 "Th": "เพิ่มประสิทธิภาพสกิล EX และสกิลรองของอาริสึขึ้น 1.5 เท่า (ครึ่งหนึ่ง) หรือ 2 เท่า (เต็ม)\nระดับการชาร์จจะถูกรีเซ็ทเป็น 0 หลังการใช้งานสกิล EX",
-                "Vi": "Tăng hiệu quả của các kỹ năng EX và Sub của Aris lên 1,5x (một nửa) hoặc 2x (toàn bộ).\nMức độ nạp đặt lại thành 0 sau khi sử dụng kỹ năng EX."
+                "Vi": "Tăng hiệu quả của các kỹ năng EX và Sub của Aris lên 1,5x (một nửa) hoặc 2x (toàn bộ).\nMức độ nạp đặt lại thành 0 sau khi sử dụng kỹ năng EX.",
+                "Kr": "아리스의 EX 스킬과 서브 스킬의 공격력이 1.5배 (1회 시전 시) 혹은 2배 (2회 시전 시) 증가합니다. \n시전 횟수는 EX 스킬을 사용할 때마다 리셋됩니다."
             },
             "Special_FormChange": {
                 "En": "Augments Normal Attacks.",
                 "Jp": "通常攻撃を強化する。",
                 "Cn": "强化普通攻击",
                 "Th": "เปลี่ยนรูปแบบของการโจมตีปกติ",
-                "Vi": "Tăng cường các cuộc tấn công bình thường."
+                "Vi": "Tăng cường các cuộc tấn công bình thường.",
+                "Kr": "일반 공격을 강화합니다."
             },
             "Special_Immortal": {
                 "En": "Able to withstand lethal damage without being defeated for the duration of the effect.",
                 "Jp": "効果時間中は致死ダメージを受けても倒されずに持ちこたえる。",
                 "Cn": "状态持续期间受到致死伤害时保留至少1生命值",
                 "Th": "เมื่อได้รับความเสียหายถึงตาย, HP จะไม่ลดลงไปต่ำกว่า 1 จนกว่าระยะเวลาของเอฟเฟกต์จะหมดลง",
-                "Vi": "Có khả năng sống sót sau sát thương chết người với 1 HP trong suốt thời gian hiệu ứng."
+                "Vi": "Có khả năng sống sót sau sát thương chết người với 1 HP trong suốt thời gian hiệu ứng.",
+                "Kr": "시전 시간 동안 HP가 0이 되지 않고, HP를 0 이하로 내리는 공격을 받으면 HP가 1이 됩니다."
             },
             "Special_ImmuneDamage": {
                 "En": "Immune to some or all types of incoming damage.",
